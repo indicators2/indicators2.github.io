@@ -120,7 +120,7 @@ img.right {margin:0 0 15px 12px}
 #footer .right, #footer .right a {color:#777;text-decoration:none}
 #footer a:hover {color:#CCB}
 /* Posts  */
-.post {margin-bottom:24px}
+.post {margin-bottom:24px;}
 .post_title a,.post_date a {text-decoration:none}
 .post_date a:hover,.post_meta a:hover {text-decoration:underline}
 .post_date {color:#777;margin-bottom:14px}
@@ -178,3 +178,7 @@ div.comment_list {border-top:1px solid #D6D6C6;margin:1em 0 2em}
     z-index: 9999;
     display: none;
 }
+.numbered-element {
+    font-weight: bold;
+  }
+  

@@ -7,3 +7,4 @@ function closeEnlargedImage() {
     var enlargedImage = document.getElementById("enlarged-image");
     enlargedImage.style.display = "none";
 }
+
