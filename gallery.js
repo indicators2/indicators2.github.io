@@ -103,6 +103,6 @@ const imageNames = [
     "VQ",
     "VSA Better&TickSeparateVolumeHistogram",
     "VSA-Coloured Volume v2.03 - Copy",
-    "_i_3D_Stochastic",
+    "3DStochastic",
     "Crater"
 ];
