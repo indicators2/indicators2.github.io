@@ -17,7 +17,7 @@ function createImageGallery() {
 // Викликаємо функцію для створення галереї після завантаження сторінки
 window.addEventListener("load", createImageGallery);
 
-// Масив з назвами файлів зображень
+// Масив з назвами файлів зображень 1622x827
 const imageNames = [
     "!_EA_Vegas_1hr",
     "(Shu)-AccInfo",
