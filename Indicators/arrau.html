@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+<style>
+    .output {
+    font-weight: bold;
+  }
+</style>
+</head>
+<body>
+    
+</body>
+<span class="html"></span>
+
+<script>
+    // Пример массива строк
+    var array = ['Привет', 'Мир', 'Пример'];
+    
+    // Получение ссылки на элемент HTML, в котором будет выводиться массив
+    var outputElement = document.getElementById('output');
+    
+    // Создание пустой строки для хранения HTML-разметки
+    var html = '';
+    
+    // Перебор элементов массива и создание HTML-разметки для каждой строки
+    for (var i = 0; i < array.length; i++) {
+      // Создание HTML-тега <p> для каждой строки
+      html += '<p>' + array[i] + '</p>';
+    }
+    
+    // Вставка сформированной HTML-разметки в элемент HTML
+    outputElement.innerHTML = html;
+    </script>
+</html>

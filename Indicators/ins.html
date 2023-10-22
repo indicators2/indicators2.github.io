@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
+    <style>
+        container {
+    font-weight: bold;
+  }
+    </style>
+</head>
+<body>
+
+    <div id="container">/div>
+    
+    <script>
+    var array = [
+        'FS30_4', 
+        'FS30_5' 
+        ];
+var container = document.getElementById('container');
+for (var i = 0; i < array.length; i++) {
+    var paragraph = document.createElement('p');
+    paragraph.innerHTML = '<div class="post"><div class="post_title"><h2><a href="ind/###.ex4">###</a></h2></div>	<div class="image-frame">		<img src="ind/###.png" width="420px" height="215px" alt="###" onclick="enlargeImage(this)">	</div>	<img id="enlarged-image" class="enlarged-image" onclick="closeEnlargedImage()">	<div class="post_meta">		<a href="ind/###.ex4">###.ex4</a> |  <a href="ind/###.mq4">###.mq4</a>	</div></div></td><td><div class="post">	<div class="post_title"><h2><a href="ind/@@@.ex4">@@@</a></h2></div>	<div class="image-frame">		<img src="ind/@@@.png" width="420px" height="215px" alt="@@@" onclick="enlargeImage(this)">	</div>	<img id="enlarged-image" class="enlarged-image" onclick="closeEnlargedImage()">	<div class="post_meta">		<a href="ind/@@@.ex4">@@@.ex4</a> | <a href="ind/@@@.mq4">@@@.mq4</a>	</div>';
+    container.appendChild(paragraph);
+}        </script>
+</body>
+</html>

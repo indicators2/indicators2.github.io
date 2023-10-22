@@ -182,27 +182,3 @@ div.comment_list {border-top:1px solid #D6D6C6;margin:1em 0 2em}
     font-weight: bold;
   }
   
-  .gallery {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Дві колонки */
-    grid-gap: 30px; /* Відступи між зображеннями */
-}
-
-.gallery img {
-    max-width: 100%;
-    height: auto;
-}
-
-.gallery div {
-    max-width: 100%;
-    height: auto;
-	width: 400px; 
-    border: solid 0px black; 
-}
-main {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-}

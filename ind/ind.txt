@@ -1,0 +1,92 @@
+ Том в устройстве C не имеет метки.
+ Серийный номер тома: E4BC-EA3B
+
+ Содержимое папки c:\www\indicators2.github.io\ind
+
+07.07.2023  13:10            62 779 !_EA_Vegas_1hr.png
+16.07.2023  09:36            80 642 (Shu)-AccInfo.png
+13.07.2023  20:16            82 094 02-06-BBands_Stop.png
+13.07.2023  20:26           117 582 04-05-CandleStick_Pattern.png
+13.07.2023  20:28            68 519 04-08-CCI_Woodies_Paterns.png
+13.07.2023  20:31           103 176 05-02-Color Stochastic.png
+16.07.2023  10:02            72 841 07-04-FiboBars2.png
+13.07.2023  20:37            48 967 07-05-FiboCalc.png
+13.07.2023  20:40            98 430 07-10-FOREX INVINCIBLE SIGNAL.png
+09.07.2023  12:02            51 205 1 arrows & curves.png
+09.07.2023  09:14            89 964 1-2-3fpatternemtffv3.1.png
+13.07.2023  20:49           100 283 10.2 TMA slope v.1.4B 4.30.png
+16.07.2023  10:12            98 497 11-02-MultiZigZag.png
+16.07.2023  10:15            55 411 16-07-Waddah_Attar_Explosion.png
+16.07.2023  09:40            46 669 190_CCI_stochasticf.png
+09.07.2023  12:48            50 970 2 Moving Average Signal.png
+15.07.2023  14:08            72 897 21-10-ZZm-fx-txt.png
+15.07.2023  14:10            52 267 22-01-GannZigZag.png
+16.07.2023  10:08            75 869 22-03-ICWR.png
+13.07.2023  19:17            50 664 4X 2011 XARD OSCILLATOR.png
+06.07.2023  10:13            43 840 AIMS.png
+07.07.2023  13:59            32 323 AltrTrend.png
+06.07.2023  10:26            50 808 arrow.png
+09.07.2023  12:58            47 147 Average Daily Range.png
+09.07.2023  12:06            43 652 B3.png
+09.07.2023  08:20            54 179 BetterVolume 1.4.png
+06.07.2023  11:00            57 158 Binlex.png
+09.07.2023  13:02            43 664 BrainTrend2SigALERT.png
+06.07.2023  11:03            51 742 buyers-vs-sellers.png
+09.07.2023  13:04            65 045 camarilla.png
+09.07.2023  13:08            52 346 Candlestick_alerts_Set_3.png
+18.07.2023  20:59            50 782 ClusterTrend Indicator.png
+06.07.2023  11:09            50 260 Digital Candlestick.png
+18.07.2023  21:17            45 755 Dynamic_Zone_RSI2.png
+07.07.2023  14:26            55 709 Dyn_AllLevels.png
+09.07.2023  09:14           124 013 EntropyMathMCD.png
+06.07.2023  11:14            47 986 FFx_Universal_Strength_Meter.png
+09.07.2023  13:11            49 772 FIB - MomentumModulator.png
+09.07.2023  09:15           120 114 FiboPiv_v3New.png
+09.07.2023  09:07            43 070 fishingind_v2_04_light.png
+09.07.2023  09:39            65 329 FishingZZ_v1_1.png
+09.07.2023  12:07            43 001 FL01.png
+09.07.2023  13:44            84 120 forex_glaz.png
+09.07.2023  11:57            49 381 FS30_4.png
+09.07.2023  12:00            49 474 FS30_5.png
+05.07.2023  22:08            48 219 FXSSI.Sentiment.Lite.png
+07.07.2023  13:13            38 148 HeikenAshi.png
+07.07.2023  14:49            53 767 HullMA.png
+09.07.2023  12:10            45 010 i-FractalsEx.png
+06.07.2023  08:53            40 160 i-Sessions.png
+09.07.2023  09:15           114 688 ISHA INDICATOR V5.0.png
+09.07.2023  09:41            39 789 i_Alex_Activity_v02_light.png
+06.07.2023  10:32            51 707 JBR channel.png
+06.07.2023  10:34            63 347 JBR LEVELS.png
+18.07.2023  21:12            45 745 kaufman-adaptive-moving-average.png
+09.07.2023  13:55            42 536 Laser Reversal.png
+16.07.2023  11:21            85 534 MarketProfile_VirginpPOC.png
+13.07.2023  19:24            40 580 MTF Forex freedom Bar v2.png
+07.07.2023  13:30            49 195 MTF Forex freedom Bar.png
+13.07.2023  19:36            74 738 MTF Stochastic v2.0 Alert.png
+16.07.2023  09:26            83 058 MTF Stochastic v2.0.png
+07.07.2023  13:45            58 396 MTF_CCI.png
+09.07.2023  13:57            55 550 MurreyMath2(рус).png
+09.07.2023  12:50            39 208 PVSRA Volumes Set v1 (White).png
+09.07.2023  12:18            36 945 RD-Сombo.png
+09.07.2023  14:18            39 698 Show Money v.2.png
+13.07.2023  19:40            93 018 Signal_Bars_v6.png
+09.07.2023  14:16            46 124 sliding-channels.png
+09.07.2023  12:20            36 315 SoeHoeCom_Peak.png
+09.07.2023  14:14            50 452 Spread.png
+06.07.2023  10:22            48 585 SS_SupportResistance.png
+13.07.2023  20:00            89 809 Stochastics_MTF.png
+18.07.2023  20:54            48 545 Super trend.png
+18.07.2023  21:09            39 464 TLaP Crowd Stop Loss v.1.19.png
+13.07.2023  20:14            88 656 TPO-Range.png
+13.07.2023  20:10            84 493 TPO.png
+06.07.2023  11:26            58 214 trend-focus-indicator.png
+06.07.2023  11:29            54 819 Trendline.png
+09.07.2023  12:31            53 853 TRIX.Crossover.png
+09.07.2023  09:15           154 533 vertical_time_lines.png
+06.07.2023  10:10            46 532 VP-Range-v6.png
+09.07.2023  09:16           134 391 VQ.png
+09.07.2023  14:04            53 761 VSA Better&TickSeparateVolumeHistogram.png
+16.07.2023  11:26            85 662 VSA-Coloured Volume v2.03 - Copy.png
+16.07.2023  09:15            73 256 _i_3D_Stochastic.png
+              85 файлов      5 386 896 байт
+               0 папок  48 425 267 200 байт свободно

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Автоматическая нумерация</title>
+  <style>
+    .numbered-element {
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Пример автоматической нумерации</h1>
+  
+  <ul>
+    <span class="numbered-element"></span>
+    <span class="numbered-element"></span>
+    <span class="numbered-element"></span>
+    <span class="numbered-element"></span>
+  </ul>
+  
+  <script>
+    var array = ['Привет', 'Мир', 'Пример'];
+    // Получение ссылки на элемент, в котором будет вставлен HTML-код
+
+
+// HTML-код для вставки
+var htmlCode = '<span class="numbered-element">111</span>';
+
+    // Перебор элементов массива и создание HTML-разметки для каждой строки
+    //for (var i = 0; i < array.length; i++) {
+
+        // Вставка HTML-кода в элемент
+        var container = document.getElementById('container');
+        container.innerHTML = htmlCode;
+      // Создание HTML-тега <p> для каждой строки
+      html = '<p>' + array[i] + '</p>';
+    //}
+
+
+// Вставка HTML-кода в элемент
+
+/*
+
+    const elementsToNumber = document.querySelectorAll('.numbered-element');
+    var html = '';
+    elementsToNumber.forEach((element, index) => {
+
+      const number = index + 1;
+      html = number+" "+array[index-] + '</p>';
+//      element.textContent = number+html;
+      element.innerHTML= html;
+
+    });
+    */
+  </script>
+</body>
+</html>

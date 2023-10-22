@@ -40,12 +40,18 @@
 	<div id="main_wrapper_inner">
 		<div class="center_wrapper"><div class="inner_copy"></div>
 			<div class="left" id="main">
-				<div class="main" id="main_content">
-<!-- ==================================================================  -->						
-					<div class="gallery" id="imageGallery">
-					</div>					
-<!-- ==================================================================  -->					
-						
+				<div id="main_content">
+					<div class="post">
+		<div class="post_title"><h2>Arrows Indicators</h2></div>
+	    <div class="image-frame">
+			<img src="ind/i-FractalsEx.png" width="840px" height="430px" alt="i-FractalsEx" onclick="enlargeImage(this)">
+		</div>
+		<img id="enlarged-image" class="enlarged-image" onclick="closeEnlargedImage()">
+		<div class="post_meta">
+			<a href="ind/FXSSI.Sentiment.Lite.ex4">FXSSI.Sentiment.Lite.ex4</a> 
+		</div>
+	</div>
+<!-- ============================================================================================  -->							
 				</div>
 			</div>
 			<div class="clearer">&nbsp;</div>
@@ -60,6 +66,13 @@
 		<div class="clearer">&nbsp;</div>
 	</div>
 </div>
-   <script src="gallery.js"></script>
+<script>
+    const elementsToNumber = document.querySelectorAll('.numbered-element');
+
+    elementsToNumber.forEach((element, index) => {
+      const number = index + 1;
+      element.textContent = number+". ";
+    });
+  </script>
 </body>
 </html>

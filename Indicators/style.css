@@ -120,7 +120,7 @@ img.right {margin:0 0 15px 12px}
 #footer .right, #footer .right a {color:#777;text-decoration:none}
 #footer a:hover {color:#CCB}
 /* Posts  */
-.post {margin-bottom:24px;}
+.post {margin-bottom:24px}
 .post_title a,.post_date a {text-decoration:none}
 .post_date a:hover,.post_meta a:hover {text-decoration:underline}
 .post_date {color:#777;margin-bottom:14px}
@@ -177,32 +177,4 @@ div.comment_list {border-top:1px solid #D6D6C6;margin:1em 0 2em}
     max-height: 90%;
     z-index: 9999;
     display: none;
-}
-.numbered-element {
-    font-weight: bold;
-  }
-  
-  .gallery {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); /* Дві колонки */
-    grid-gap: 30px; /* Відступи між зображеннями */
-}
-
-.gallery img {
-    max-width: 100%;
-    height: auto;
-}
-
-.gallery div {
-    max-width: 100%;
-    height: auto;
-	width: 400px; 
-    border: solid 0px black; 
-}
-main {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
 }
